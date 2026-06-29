@@ -1,0 +1,633 @@
+canonical_identifier: bkk:krp/KR3eq068/jc/v1
+canonical_location: https://kanripo.org/bkk/KR3eq068/jc/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 景景醫話
+  identifiers:
+    krp: KR3eq068
+  tags:
+    kr-categories: KR3eq
+  source:
+    repository: tls-texts
+    path: data/tls/KR3eq068.xml
+  edition:
+    short: jc
+assets:
+  parts:
+  - {seq: 0, filename: KR3eq068_000-jc.yaml, hash: 'sha256:35c8e14f024425a9bfa3ff0306d88633f129d3ff3fc3cb904727307d24b3f6dc'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR3eq068_000-jc.markers.yaml, hash: 'sha256:ca5f98517f2bf6d52fb6dc62d82bb51c775958472a8bf3c5752185482c65ca99'}
+table_of_contents:
+- ref:
+    seq: 0
+    marker_id: KR3eq068_jc_000-d2.h1s1
+    span:
+    - front
+    - 0
+    - 101
+  label: 序
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eq068_jc_000-d3.h1s1
+    span:
+    - body
+    - 0
+    - 14779
+  label: 景景醫話
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eq068_jc_000-d3d2
+    span:
+    - body
+    - 4
+    - 257
+  label: 腸癰
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3eq068_jc_000-d3d3
+    span:
+    - body
+    - 257
+    - 545
+  label: 急勞
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3eq068_jc_000-d3d4
+    span:
+    - body
+    - 545
+    - 718
+  label: 走馬牙疳
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3eq068_jc_000-d3d5
+    span:
+    - body
+    - 718
+    - 847
+  label: 西法化驗
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3eq068_jc_000-d3d6
+    span:
+    - body
+    - 847
+    - 1182
+  label: 倒視
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3eq068_jc_000-d3d7
+    span:
+    - body
+    - 1182
+    - 1436
+  label: 痧穢宜嚏過飽宜吐
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3eq068_jc_000-d3d8
+    span:
+    - body
+    - 1436
+    - 1710
+  label: 痧症鼠疫
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3eq068_jc_000-d3d9
+    span:
+    - body
+    - 1710
+    - 2016
+  label: 寒包暑熱
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3eq068_jc_000-d3d10
+    span:
+    - body
+    - 2016
+    - 2373
+  label: 久咳風溫咳風寒
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3eq068_jc_000-d3d11
+    span:
+    - body
+    - 2373
+    - 2847
+  label: 二便不通
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3eq068_jc_000-d3d12
+    span:
+    - body
+    - 2847
+    - 4751
+  label: 神昏譫語
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3eq068_jc_000-d3d13
+    span:
+    - body
+    - 4751
+    - 5319
+  label: 用藥分量
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3eq068_jc_000-d3d14
+    span:
+    - body
+    - 5319
+    - 5570
+  label: 胎黃
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3eq068_jc_000-d3d15
+    span:
+    - body
+    - 5570
+    - 6336
+  label: 鼻衄
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3eq068_jc_000-d3d16
+    span:
+    - body
+    - 6336
+    - 7216
+  label: 濕溫疝氣風疹熱人血室陽明經白虎證天花時氣
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3eq068_jc_000-d3d17
+    span:
+    - body
+    - 7216
+    - 7720
+  label: 肝氣為濕熱所遇痘不化漿
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3eq068_jc_000-d3d18
+    span:
+    - body
+    - 7720
+    - 8117
+  label: 神昏譫語
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3eq068_jc_000-d3d19
+    span:
+    - body
+    - 8117
+    - 8821
+  label: 腫脹後昏厥熱病經來
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3eq068_jc_000-d3d20
+    span:
+    - body
+    - 8821
+    - 9192
+  label: 虛喘
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3eq068_jc_000-d3d21
+    span:
+    - body
+    - 9192
+    - 9338
+  label: 劑劑字解
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3eq068_jc_000-d3d22
+    span:
+    - body
+    - 9338
+    - 9446
+  label: 淫字解
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3eq068_jc_000-d3d23
+    span:
+    - body
+    - 9446
+    - 9541
+  label: 取字解
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3eq068_jc_000-d3d24
+    span:
+    - body
+    - 9541
+    - 10071
+  label: 變字解
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3eq068_jc_000-d3d25
+    span:
+    - body
+    - 10071
+    - 10268
+  label: 聖人不治已病治未病解
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3eq068_jc_000-d3d26
+    span:
+    - body
+    - 10268
+    - 10437
+  label: 內傷解
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3eq068_jc_000-d3d27
+    span:
+    - body
+    - 10437
+    - 11414
+  label: 記諸兄姊妹病故情形
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3eq068_jc_000-d3d28
+    span:
+    - body
+    - 11414
+    - 11947
+  label: 記諸子女病殤情形
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3eq068_jc_000-d3d29
+    span:
+    - body
+    - 11947
+    - 12932
+  label: 記何鴻舫先生療先母痿症先兄痢疾情形
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3eq068_jc_000-d3d30
+    span:
+    - body
+    - 12932
+    - 13180
+  label: 記繼室汪氏怯病治愈情形
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3eq068_jc_000-d3d31
+    span:
+    - body
+    - 13180
+    - 13596
+  label: 記侄培勳生時僵子培治病厥均獲救情形
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3eq068_jc_000-d3d32
+    span:
+    - body
+    - 13596
+    - 13988
+  label: 記三女長鈞病熱厥八女佩玢慢脾獲愈情形
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3eq068_jc_000-d3d33
+    span:
+    - body
+    - 13988
+    - 14255
+  label: 記侄培本故於腫病情形
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3eq068_jc_000-d3d34
+    span:
+    - body
+    - 14255
+    - 14779
+  label: 記侄培俊夫婦再侄成懋均死於傷食情形
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3eq068_jc_000-d4.h1s1
+    span:
+    - body
+    - 14779
+    - 20919
+  label: 醫談錄舊
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eq068_jc_000-d4d2
+    span:
+    - body
+    - 14783
+    - 14834
+  label: 陸晉笙弁言
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3eq068_jc_000-d4d3
+    span:
+    - body
+    - 14834
+    - 15334
+  label: 三焦有名無形辨
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3eq068_jc_000-d4d4
+    span:
+    - body
+    - 15334
+    - 15546
+  label: 病笑
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3eq068_jc_000-d4d5
+    span:
+    - body
+    - 15546
+    - 15658
+  label: 過食辛辣成毒
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3eq068_jc_000-d4d6
+    span:
+    - body
+    - 15658
+    - 16069
+  label: 頭痛
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3eq068_jc_000-d4d7
+    span:
+    - body
+    - 16069
+    - 16157
+  label: 解滷汁
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3eq068_jc_000-d4d8
+    span:
+    - body
+    - 16157
+    - 16361
+  label: 經阻腹大嘔不納穀
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3eq068_jc_000-d4d9
+    span:
+    - body
+    - 16361
+    - 16588
+  label: 浮腫
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3eq068_jc_000-d4d10
+    span:
+    - body
+    - 16588
+    - 17127
+  label: 霍亂吐瀉
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3eq068_jc_000-d4d11
+    span:
+    - body
+    - 17127
+    - 17513
+  label: 生螺鯁喉
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3eq068_jc_000-d4d12
+    span:
+    - body
+    - 17513
+    - 18279
+  label: 轉女為男
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3eq068_jc_000-d4d13
+    span:
+    - body
+    - 18279
+    - 18501
+  label: 環唇疔
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3eq068_jc_000-d4d14
+    span:
+    - body
+    - 18501
+    - 18806
+  label: 實熱內伏
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3eq068_jc_000-d4d15
+    span:
+    - body
+    - 18806
+    - 18895
+  label: 虛寒中風
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3eq068_jc_000-d4d16
+    span:
+    - body
+    - 18895
+    - 18970
+  label: 膈
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3eq068_jc_000-d4d17
+    span:
+    - body
+    - 18970
+    - 19055
+  label: 失明
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3eq068_jc_000-d4d18
+    span:
+    - body
+    - 19055
+    - 19970
+  label: 痘
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3eq068_jc_000-d4d19
+    span:
+    - body
+    - 19970
+    - 20036
+  label: 食鴨成癥
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3eq068_jc_000-d4d20
+    span:
+    - body
+    - 20036
+    - 20101
+  label: 發癥
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3eq068_jc_000-d4d21
+    span:
+    - body
+    - 20101
+    - 20279
+  label: 中痰
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3eq068_jc_000-d4d22
+    span:
+    - body
+    - 20279
+    - 20390
+  label: 脾疾
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3eq068_jc_000-d4d23
+    span:
+    - body
+    - 20390
+    - 20451
+  label: 猘犬傷
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3eq068_jc_000-d4d24
+    span:
+    - body
+    - 20451
+    - 20531
+  label: 邪祟交合
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3eq068_jc_000-d4d25
+    span:
+    - body
+    - 20531
+    - 20681
+  label: 噎
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3eq068_jc_000-d4d26
+    span:
+    - body
+    - 20681
+    - 20919
+  label: 龜癥產
+  type: section
+  level: 2
+hash: sha256:93dcf98ce7e152fd3236a07945a4e911cd0c90606b1cd68472b7af938ede66e3
